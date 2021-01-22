@@ -120,6 +120,7 @@ jobs:
       parameters:
         Directory: ""
         CheckLinkGuidance: $true
+      condition: succeededOrFailed()
 
     - publish: $(Build.ArtifactStagingDirectory)
       condition: succeededOrFailed()
