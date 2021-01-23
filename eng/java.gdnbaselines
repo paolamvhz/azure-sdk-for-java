@@ -8,19 +8,6 @@
     }
   },
   "results": {
-    "a69fb9406f784dbf3b85e1a190ae4cc72712e321df5c924fd7eb4497497e44ec": {
-      "signature": "a69fb9406f784dbf3b85e1a190ae4cc72712e321df5c924fd7eb4497497e44ec",
-      "target": "sdk/spring/HOW_TO_RUN_AAD_INTEGRATION_TEST_IN_LOCALHOST.md",
-      "memberOf": [
-        "baseline"
-      ],
-      "tool": "CredentialScanner",
-      "ruleId": "CSCAN-GENERAL0060",
-      "justification": null,
-      "createdDate": "2021-01-22 03:39:03Z",
-      "expirationDate": null,
-      "type": null
-    },
     "b92149293bfaca9f2c1e89b9480456cf5bf3e01d1a54a6e97bc374b7d1cd5702": {
       "signature": "b92149293bfaca9f2c1e89b9480456cf5bf3e01d1a54a6e97bc374b7d1cd5702",
       "target": "sdk/search/azure-search-documents/README.md",
